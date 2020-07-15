@@ -1,0 +1,12 @@
+{
+    "name": "anant/composer-php",
+    "authors": [
+        {
+            "name": "Anant Rungta",
+            "email": "anantrungta1999@gmail.com"
+        }
+    ],
+    "require": {
+        "league/color-extractor": "0.3.*"
+    }
+}
